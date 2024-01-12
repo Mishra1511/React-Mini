@@ -21,3 +21,4 @@ function  Counter(){
 }
 
 export default Counter;
+// parseint parses the object and makes it a integer.
