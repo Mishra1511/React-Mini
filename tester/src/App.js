@@ -7,7 +7,7 @@ function App() {
     
     {/* {arr.map((i,index)=> <Para y={index+1} x={i}/>)}
     
-    <Button>Click Me!!</Button> for adding para with all the array values */} 
+    <Button>Click Me!!</Button> for adding para with all the array */} 
     <Counter/>
     </div>
   );

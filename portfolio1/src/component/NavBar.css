@@ -1,0 +1,26 @@
+.resume{
+    background-color: black;
+    height:30px;
+    color:aliceblue;
+    width: 100px;
+    border-radius: 5px;
+    margin-left: 270px;
+    margin-right: 50px;
+}
+.inlinenav{
+    display: flex;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.h3port{
+    margin-block-end: 0rem;
+    margin-block-start: 0rem;
+    margin-right: 300px;
+    margin-left: 50px;
+    font-size: larger;
+}
+.nav{
+    margin-left: 20px;
+    margin-right: 20px;
+}
