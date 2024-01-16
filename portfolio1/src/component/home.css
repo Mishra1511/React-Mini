@@ -1,0 +1,57 @@
+.container{
+    position: relative;
+}
+.homedescription{
+    position: absolute;
+    top:70px;
+    left:90px;
+}
+/* .Bannerimage{
+    border: 2px solid black;
+    
+} */
+.Bannerimage>img{
+    position: absolute;
+    height: 450px;
+    width: 450px;
+    right:30px;
+    top:30px;
+} 
+h1{
+    font-size: 40px;
+}
+.hello{
+    display: inline;
+    font-family: 'Ubuntu',sans-serif ;
+    font-weight: 300;
+}
+
+.name{
+    display: inline;
+    font-family: 'Ubuntu',sans-serif ;
+}
+
+.frontend{
+    display: inline;
+    font-family: 'Ubuntu',sans-serif ;
+    
+}
+
+.Developer{
+    display: inline;
+    font-family: 'Ubuntu',sans-serif ;
+    -webkit-text-stroke-width: 2px;   
+    -webkit-text-stroke-color: black;
+    color:white;
+}
+
+.based{
+    display: inline;
+    font-family: 'Ubuntu',sans-serif ;
+    font-weight: 300;
+}
+
+.india{
+    display: inline;
+    font-family: 'Ubuntu',sans-serif ;
+}
