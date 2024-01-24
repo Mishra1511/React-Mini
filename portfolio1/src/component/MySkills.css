@@ -1,0 +1,39 @@
+.skillsdiv{
+    height: 150px;
+    width: 10%;
+    margin: 50px;
+    box-sizing: border-box;
+    border: 2px black solid;
+    font-family: 'Ubuntu',sans-serif ;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.name{
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.skills{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+}
+.skillscontainer{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Ubuntu',sans-serif ;
+}
+.my{
+    font-weight: 200;
+    display: inline;
+}
+.skillsheading{
+    display: inline;
+}
