@@ -9,7 +9,7 @@ function Home(){
             <div className='homedescription'>
                 <div className='content'>
                     <h1 className='hello'>Hello! I'am </h1>
-                    <h1 className='name'>Shruti Mishra.</h1>
+                    <h1 className='myname'>Shruti Mishra.</h1>
                     <br/>
                     <h1 className='frontend'>Frontend </h1>
                     <h1 className='Developer'>Developer</h1>
