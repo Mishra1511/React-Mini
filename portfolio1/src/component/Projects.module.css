@@ -1,0 +1,46 @@
+.Project{
+    padding: 50px;
+    background-color: black;
+    color: white;
+    font-family: 'Ubuntu',sans-serif ;
+}
+.headings{
+    margin-top: 20px;
+    margin-bottom: 80px;
+    text-align: center;
+}
+.my{
+    display: inline;
+    font-weight: 300;
+}
+.pro{
+    display: inline;
+}
+
+.image1,.image2,.image3{
+    height: 400px;
+    width: 50%;
+}
+img{
+    height: 100%;
+    width: 100%
+}
+
+.Project1,.Project2,.Project3{
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.Project1Content,.Project3Content{
+    margin-left: 30px;
+    width:50%;
+    margin-top: 30px;
+}
+.Project2Content{
+    width:50%;
+    margin-right: 30px;
+    margin-top: 30px;
+}
