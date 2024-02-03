@@ -1,0 +1,31 @@
+.maindiv{
+    background-color: black;
+    color: white;
+    height: 60px;
+    font-family: 'Ubuntu',sans-serif ;
+    /* border: 2px solid red; */
+}
+.insidDiv{
+    position: relative;
+    height: 60px;
+}
+.portfolio{
+    position: absolute;
+    top:0%;
+    left:6%;
+    width:10%;
+}
+.icon{
+    margin-right: 5%;
+}
+.dd{
+    position: absolute;
+    top: -15%;
+    right:8%;
+    font-weight: 200;
+}
+.name{
+    position: absolute;
+    top: 15%;
+    right:8%;
+}

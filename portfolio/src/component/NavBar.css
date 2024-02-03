@@ -1,0 +1,90 @@
+.navbar{
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    box-shadow:  1px 1px 5px grey;
+    height: 40px;
+    padding-top: 1%;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-family: 'Ubuntu',sans-serif ;
+    font-size: 15px;
+   
+}
+
+.resume {
+    background-color: black;
+    height: 30px;
+    color: aliceblue;
+    width: 100px;
+    border-radius: 5px;
+    margin-left: 5%;
+    margin-right: 2%;
+    
+}
+.resume>a{
+    text-decoration: none;
+    color: white;
+}
+
+.inlinenav {
+    display: flex;
+    font-weight: bold;
+    align-items: center;
+}
+
+.h3port {
+    margin: 0;
+    font-size: larger;
+    margin-top: 5px;
+    margin-right: 5%;
+    margin-left: 2%;
+    color: black;
+    text-decoration: none;
+}
+
+.nav {
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 8px;
+    color: black;
+    text-decoration: none;
+}
+
+.resumeicon {
+    margin-left: 7px;
+}
+
+/* Adjustments to bring sections closer */
+.section {
+    margin-top: 20px;
+}
+
+.about-me,
+.skills,
+.projects,
+.contact {
+    margin-bottom: 20px;
+}
+
+
+@media only screen and (min-width: 768px) {
+    .inlinenav {
+        flex-direction: row;
+    }
+
+    .h3port {
+        margin-right: 22%;
+        margin-left: 4%;
+    }
+    
+    .resume {
+        margin-left: 20%;
+        margin-right: 4%;
+    }
+    
+    .section {
+        margin-top: 10px;
+    }
+}
+

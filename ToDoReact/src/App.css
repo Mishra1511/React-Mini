@@ -1,0 +1,12 @@
+
+.ToDoList{
+  padding-bottom: 30px;
+}
+.cross{
+  height: 14px;
+  width: 8px;
+  font-size: 10px;
+  margin-left: 15px;
+  padding-right: 13px;
+  padding-bottom: 5px;
+}

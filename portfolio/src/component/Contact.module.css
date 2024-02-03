@@ -1,0 +1,59 @@
+.maindiv{
+    font-family: 'Ubuntu',sans-serif ;
+    padding: 50px;
+    padding-top: 10px;
+   margin-bottom: 0px;
+}
+.heading{
+    text-align: center;
+    margin-bottom: 60px;
+}
+.divcontainer{
+    display: flex;
+    box-sizing: border-box;
+}
+.form{
+    display: grid;
+    width: 50%;
+}
+.name,.email{
+    width: 140%;
+    height: 30px;
+    margin: 10px;
+    font-family: 'Ubuntu',sans-serif ;
+}
+
+.message{
+    width: 140%;
+    height: 100px;
+    margin: 10px;
+    font-family: 'Ubuntu',sans-serif ;
+}
+
+.btn{
+    color:white;
+    background-color: black;
+    border-radius: 5px;
+    height: 30px;
+    width:50%;
+    margin-top: 10px;
+    margin-left: 44%;
+    font-family: 'Ubuntu',sans-serif ;
+}
+.Content{
+    width: 50%;
+}
+.lets,.talk,.for,.something{
+    display: inline;
+}
+.talk{
+    -webkit-text-stroke-width: 2px;   
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+    color:white;
+}
+p{
+    font-weight: 100;
+}
+.myemail{
+    font-weight: 600;
+}
