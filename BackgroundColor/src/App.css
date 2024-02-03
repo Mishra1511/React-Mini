@@ -1,0 +1,15 @@
+.App{
+  position: absolute;
+  top:30%;
+  left: 33%;
+  
+}
+h1{
+  margin-bottom: 10%;
+}
+.btn{
+  background-color: black;
+  color: white;
+  border: none;
+  margin-top: 40px;
+}

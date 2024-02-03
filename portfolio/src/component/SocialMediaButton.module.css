@@ -1,0 +1,19 @@
+.smspan{
+    display: flex;
+}
+
+.maincontainer{
+    height: 65px;
+    width: 65px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.SMBcontainer{
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+}

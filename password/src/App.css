@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  color: white;
+  margin-top: 15%;
+}
+input{
+  height: 35px;
+  width: 300px;
+  background-color: lightgray;
+  border-radius: 5px;
+}
+button{
+  position: absolute;
+  top: 29%;
+  right: 38%;
+  background-color: lightgray;
+  border: none;
+}
+.container{
+  position: relative;
+}
+
