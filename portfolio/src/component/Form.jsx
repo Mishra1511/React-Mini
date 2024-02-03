@@ -45,7 +45,7 @@ function HandleForm(){
               <textarea className={styles.message} name="message" placeholder="Your Message" value={formData.message} onChange={handleChange}></textarea>
               <button className={styles.btn} type="submit">Get In Touch</button>
             </form> : 
-             <h1 style={{marginTop:'12%'}}>Thanks for your Reponse!</h1>}
+             <h1 style={{paddingTop:'40px', height:'180px'}}>Thanks for your Reponse!</h1>}
             
         </div>
         
